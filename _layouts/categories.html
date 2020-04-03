@@ -70,7 +70,7 @@ layout: page
         {% if category[0] == category_name %}
           <div class="entries-{{ page.entries_layout | default: 'list' }}">
             {% for entry in category.last %}
-              {% include entry.html %}
+              {% include entry-minimum.html %}
             {% endfor %}
           </div>
         {% endif %}
