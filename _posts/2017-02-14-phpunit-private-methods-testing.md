@@ -6,7 +6,7 @@ categories: PHP
 tags: php phpunit
 ---
 
-How to test private class methods with PHPUnit
+How to test Class private methods with PHPUnit
 
 ```php
 
