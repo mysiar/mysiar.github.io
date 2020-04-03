@@ -4,11 +4,11 @@
   {% assign title = entry.title %}
 {% endif %}
 
-<p>
+<span>
   {% if entry.link %}
   <a class="u-bookmark-of" href="{{ entry.link }}">{{ title }}</a> <a href="{{ entry.url | relative_url }}" rel="bookmark"><span class="link-arrow">&rarr;</span></a>
   {% else %}
   <a href="{{ entry.url | relative_url }}" rel="bookmark">{{ title }}</a>
   {% endif %}
-</p>
+</span>
 
