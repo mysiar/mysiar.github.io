@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PHPUnit - testing private methods"
-date:   2019-08-14 13:47
+date:   2017-02-14 13:47
 categories: PHP
 tags: php phpunit
 ---
