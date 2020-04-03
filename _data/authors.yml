@@ -1,0 +1,11 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Piotr Synowiec:
+  name: Piotr Synowiec
+  picture: https://en.gravatar.com/userimage/96815547/aacfdefdb0c12bc053b46970969b14ed.jpeg
+  twitter: "@mysiar71"
+  links:
+    - title: Twitter
+      url: https://twitter.com/mysiar71
+      icon: fab fa-twitter-square
