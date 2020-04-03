@@ -5,7 +5,6 @@
 {% endif %}
 
 <article class="entry h-entry">
-  <header class="entry-header">
     <h6 class="entry-title p-name">
       {% if entry.link %}
         <a class="u-bookmark-of" href="{{ entry.link }}">{{ title }}</a> <a href="{{ entry.url | relative_url }}" rel="bookmark"><span class="link-arrow">&rarr;</span></a>
@@ -13,5 +12,4 @@
         <a href="{{ entry.url | relative_url }}" rel="bookmark">{{ title }}</a>
       {% endif %}
     </h6>
-  </header>
 </article>
