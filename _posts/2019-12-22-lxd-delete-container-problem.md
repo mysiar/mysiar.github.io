@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "LXD - problem to delete container"
 date:   2019-12-22
 categories: DEVOPS
