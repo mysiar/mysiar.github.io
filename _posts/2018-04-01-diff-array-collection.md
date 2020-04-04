@@ -7,6 +7,7 @@ tags: php doctrine symfony
 
 
 ```php
+
 /**
      * Diff of two Object Collections
      *
