@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "PHPStorm - settings: vmoptions"
+title:  "PhpStorm - settings: vmoptions"
 date:   2019-08-11
-categories: PHP
+categories: DEV
 tags: php phpstorm
 ---
 

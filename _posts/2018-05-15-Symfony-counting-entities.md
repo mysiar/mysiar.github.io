@@ -2,7 +2,7 @@
 layout: post
 title:  "Symfony - counting large number of entities FAST"
 date:   2018-05-15 09:31
-categories: PHP
+categories: DEV
 tags: php symfony doctrine orm
 ---
 

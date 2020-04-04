@@ -2,7 +2,7 @@
 layout: post
 title:  "GIT pre-commit hook "
 date:   2018-10-01 20:47
-categories: PHP
+categories: DEV
 tags: php git hook phpcs
 ---
 

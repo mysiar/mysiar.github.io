@@ -2,7 +2,7 @@
 layout: post
 title:  "PHPUnit - testing private methods"
 date:   2017-02-14 13:47
-categories: PHP
+categories: DEV
 tags: php phpunit
 ---
 
