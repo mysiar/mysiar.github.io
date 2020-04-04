@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Coding Convention"
+title:  "PHP Coding Convention"
 date:   2017-09-07
 categories: DEV
-tags: standard
----
+tags: php
+-----------------
 
 ```
 ╔═══════════════════════╦═════════════╦════════════╦══════════════╦════════════╦════════════╗
