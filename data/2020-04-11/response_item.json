@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "crs": {
+          "type": "name",
+          "properties": {
+            "name": "urn:ogc:def:crs:EPSG::2180"
+          }
+        },
+        "coordinates": [
+          [
+            [
+              [
+                566092.8313,
+                244589.8583
+              ],
+              [
+                566092.6299,
+                244589.0005
+              ],
+              [
+                566092.8313,
+                244589.8583
+              ]
+            ],
+            [
+              [
+                566047.2624,
+                244516.417
+              ],
+              [
+                566047.2624,
+                244516.417
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "Building 1"
+      }
+    }
+  ]
+}
