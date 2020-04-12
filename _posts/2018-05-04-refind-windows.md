@@ -5,7 +5,7 @@ categories: DEVOPS
 tags: win
 ---
 
-To restore your [rEFInd](https://www.rodsbooks.com/refind/) boot manager on MS Windows  
+To restore your [rEFInd](https://www.rodsbooks.com/refind/){:target="_blank"} boot manager on MS Windows  
 Create `refind.bat` file with below content and run it as admin
 
 ```

@@ -5,7 +5,7 @@ categories: DEV
 tags: php doctrine symfony
 ---
 
-
+small function
 ```php
 
 /**

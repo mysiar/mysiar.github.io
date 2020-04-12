@@ -5,14 +5,14 @@ categories: DEV
 tags: garmin sdk
 ---
 
-* Install https://developer.garmin.com/connect-iq/programmers-guide/getting-started/ to `/opt/garmin-connectiq-sdk`
+* Install [SDK](https://developer.garmin.com/connect-iq/programmers-guide/getting-started/){:target="_blank"} to `/opt/garmin-connectiq-sdk`
 
     ```
     export PATH=$PATH:/opt/garmin-connectiq-sdk/bin
     ```
 
 * lib issues
-    * libpng issue https://www.linuxuprising.com/2018/05/fix-libpng12-0-missing-in-ubuntu-1804.html
+    * [libpng issue](https://www.linuxuprising.com/2018/05/fix-libpng12-0-missing-in-ubuntu-1804.html){:target="_blank"} 
        ```
        sudo dpkg -i libpng12-0_1.2.54-1ubuntu1.1_amd64.deb
        ```
@@ -22,7 +22,7 @@ tags: garmin sdk
        ```
 
 * fix for java 9, 10 `/opt/garmin-connectiq-sdk/bin/monkeydo`
-    * source http://unitstep.net/blog/2018/08/22/getting-the-garmin-connect-iq-sdk-to-work-with-java-9-10/
+    * [source](http://unitstep.net/blog/2018/08/22/getting-the-garmin-connect-iq-sdk-to-work-with-java-9-10/){:target="_blank"}
 
     ```
     # COMMENT THIS ONE OUT:

@@ -6,7 +6,7 @@ categories: DEV
 tags: php phpstorm
 ---
 
-find [PHPStorm settings folder](https://intellij-support.jetbrains.com/hc/en-us/articles/206544519) and edit `.vmoptions`
+find [PHPStorm settings folder](https://intellij-support.jetbrains.com/hc/en-us/articles/206544519){:target="_blank"} and edit `.vmoptions`
 
 ```
 -server

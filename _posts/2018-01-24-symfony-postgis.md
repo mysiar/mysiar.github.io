@@ -5,7 +5,7 @@ categories: DEV
 tags: php doctrine symfony
 ---
 
-Using [jsor/doctrine-postgis ](https://github.com/jsor/doctrine-postgis)
+Using [jsor/doctrine-postgis ](https://github.com/jsor/doctrine-postgis){:target="_blank"}
 
 ```yaml
 doctrine:
@@ -31,7 +31,7 @@ doctrine:
 
 ```php
 // Entity
-/**
+    /**
      * @var geometry
      *
      * @ORM\Column(name="geom", type="geometry", nullable=true,

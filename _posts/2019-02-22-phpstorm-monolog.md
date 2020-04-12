@@ -6,7 +6,7 @@ tags: php phpstorm
 ---
 
 
-PhpStorm [Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog) extension configuration for monolog
+PhpStorm [Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog){:target="_blank"} extension configuration for monolog
 
 ```
 Message pattern: `^\[(.*)\] (.+?)\.([A-Z]+): (.*)`

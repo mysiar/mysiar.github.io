@@ -9,7 +9,7 @@ tags: php git hook phpcs
 Prevents to commit code not accordingly to the coding standard.
 
 Step by step:
-1. using [PHP code sniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+1. using [PHP code sniffer](https://github.com/squizlabs/PHP_CodeSniffer){:target="_blank"}
 2. own `ruleset.xml` in the root of the project
 3. Create file `.git/hooks/pre-commit`
 4. `chmod +x .git/hooks/pre-commit`

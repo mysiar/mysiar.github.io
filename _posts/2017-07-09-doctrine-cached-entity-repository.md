@@ -5,4 +5,4 @@ categories: DEV
 tags: php doctrine symfony
 ---
 
-External link [mysiar/CachedEntityRepository](https://github.com/mysiar/CachedEntityRepository)
+External link [mysiar/CachedEntityRepository](https://github.com/mysiar/CachedEntityRepository){:target="_blank"}

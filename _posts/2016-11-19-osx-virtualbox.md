@@ -7,7 +7,7 @@ tags: osx virtualbox
 
 After finding a lot of other posts on the topic that didn't work out for me this one did the trick so I'm reposting for my own sense of self preservation.
 
-[Link to original article.](http://rcaguilar.wordpress.com/2013/01/07/auto-starting-virtualbox-vms-on-os-x/)
+[Link to original article.](http://rcaguilar.wordpress.com/2013/01/07/auto-starting-virtualbox-vms-on-os-x/){:target="_blank"}
 
 Copy the Virtualbox autostart plist template file to your system's LaunchDaemons folder.
 
@@ -66,8 +66,6 @@ After a reboot, the VMs that have been set with autostart enabled should be runn
 
 ### References
 
-<https://www.virtualbox.org/manual/ch09.html#autostart-osx>
-
-<https://forums.virtualbox.org/viewtopic.php?f=8&t=51593&start=15#p240724>
-
-<https://forums.virtualbox.org/viewtopic.php?f=11&t=51529#p236492>
+[Virtualbox docs autostart OSX](https://www.virtualbox.org/manual/ch09.html#autostart-osx){:target="_blank"}
+[Virtualbox forum thread 1](https://forums.virtualbox.org/viewtopic.php?f=8&t=51593&start=15#p240724){:target="_blank"}
+[Virtualbox forum thread 2](https://forums.virtualbox.org/viewtopic.php?f=11&t=51529#p236492){:target="_blank"}
