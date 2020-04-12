@@ -66,6 +66,6 @@ After a reboot, the VMs that have been set with autostart enabled should be runn
 
 ### References
 
-[Virtualbox docs autostart OSX](https://www.virtualbox.org/manual/ch09.html#autostart-osx){:target="_blank"}
-[Virtualbox forum thread 1](https://forums.virtualbox.org/viewtopic.php?f=8&t=51593&start=15#p240724){:target="_blank"}
-[Virtualbox forum thread 2](https://forums.virtualbox.org/viewtopic.php?f=11&t=51529#p236492){:target="_blank"}
+* [Virtualbox docs autostart OSX](https://www.virtualbox.org/manual/ch09.html#autostart-osx){:target="_blank"}
+* [Virtualbox forum thread 1](https://forums.virtualbox.org/viewtopic.php?f=8&t=51593&start=15#p240724){:target="_blank"}
+* [Virtualbox forum thread 2](https://forums.virtualbox.org/viewtopic.php?f=11&t=51529#p236492){:target="_blank"}

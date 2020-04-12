@@ -8,7 +8,7 @@ tags: php doctrine symfony
 small function
 ```php
 
-/**
+    /**
      * Diff of two Object Collections
      *
      * @param Collection $collection1

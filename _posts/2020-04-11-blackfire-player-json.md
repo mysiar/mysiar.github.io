@@ -5,7 +5,7 @@ categories: DEV
 tags: api testing blackfire
 ---
 
-Recently I discovered Blackfire Player and tried to use is as alternative to behat for testing API (my api engine is [Api Platform](https://api-platform.com/) )  
+Recently I discovered Blackfire Player and tried to use is as alternative to behat for testing API (my api engine is [Api Platform](https://api-platform.com/){:target="_blank"})  
 I'm not gonna write how to create API or install Blackfire Player as it is already described and easy to find.
 
 Let's say that I have two endpoints in my API, both returns GeoJSON
@@ -104,7 +104,7 @@ scenario:
         expect json("features[].geometry.crs.[type, properties]")
 ```
 
-this is very simillar scenario to previous with one exception `features[]` means that all features will be selected for checking as per [MultiSelect](https://jmespath.org/tutorial.html#multiselect)
+this is very simillar scenario to previous with one exception `features[]` means that all features will be selected for checking as per [MultiSelect](https://jmespath.org/tutorial.html#multiselect){:target="_blank"}
 
 
 ### GeoJSON responses
