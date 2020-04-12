@@ -109,11 +109,11 @@ this is very simillar scenario to previous with one exception `features[]` means
 
 ### GeoJSON responses
 
-* [GeoJSON Feature collection](/data/2020-04-11/response_collection.json)
-* [GeoJSON Feature single](/data/2020-04-11/response_item.json)
+* [GeoJSON Feature collection](/data/2020-04-11/response_collection.json){:target="_blank"}
+* [GeoJSON Feature single](/data/2020-04-11/response_item.json){:target="_blank"}
 
 
 ### References:
-* [Blackfire Player Docs](https://blackfire.io/docs/player/index)
-* [Blackfireio Player Readme (github)](https://github.com/blackfireio/player/blob/master/README.rst)
-* [json() function accepts JMESPath](http://jmespath.org/specification.html)
+* [Blackfire Player Docs](https://blackfire.io/docs/player/index){:target="_blank"}
+* [Blackfireio Player Readme (github)](https://github.com/blackfireio/player/blob/master/README.rst){:target="_blank"}
+* [json() function accepts JMESPath](http://jmespath.org/specification.html){:target="_blank"}
