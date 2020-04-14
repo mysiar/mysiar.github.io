@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mercure.Rocks - JWT test</title>
+</head>
+<body>
+<p>ID   : <span id="id"></span></p>
+<p>DATA : <span id="data"></span></p>
+
+</body>
+<script>
+
+  const eventSource = new EventSource('http://localhost:3333/.well-known/mercure?topic=test');
+  eventSource.onmessage = event => {
+    document.getElementById('id').innerHTML = event.lastEventId;
+    document.getElementById('data').innerHTML = JSON.parse(event.data).headline;
+    console.log(event.lastEventId);
+    console.log(JSON.parse(event.data).headline);
+  }
+</script>
+</html>

@@ -1,0 +1,17 @@
+[Unit]
+Description=Mercure.Rocks service
+After=network.target
+StartLimitBurst=5
+StartLimitIntervalSec=33
+
+[Service]
+Type=simple
+WorkingDirectory=/tmp
+ExecStart=/usr/sbin/mercure
+StandardOutput=file:/var/log/mercure.log
+StandardError=file:/var/log/mercure.log
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

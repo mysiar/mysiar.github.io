@@ -255,6 +255,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-paginate
   jekyll-theme-so-simple
+  jemoji
   tzinfo-data
 
 BUNDLED WITH

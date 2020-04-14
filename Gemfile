@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 #gem "jekyll", "~> 4.0.0"
 gem "github-pages", group: :jekyll_plugins
+gem 'jemoji'
 
 #gem "minima", "~> 2.5"
 gem "jekyll-theme-so-simple"

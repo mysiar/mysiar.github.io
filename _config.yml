@@ -16,6 +16,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-feed
+  - jemoji
 
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
@@ -100,7 +101,6 @@ defaults:
       comments: true
       share: true
       related: true
-
 
 
 # Exclude from processing.

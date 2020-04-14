@@ -1,0 +1,7 @@
+jwt_key: YOUR_KEY_GENERATED
+addr:	127.0.0.1:3333
+allow_anonymous: true
+transport_url: bolt://update.db
+cors_allowed_origins: '*'
+publish_allowed_origins: '*'
+debug: true
