@@ -1,11 +1,11 @@
 ---
 title:  "Mercure - part 2 - JWT"
-date:   2020-04-12 14:05
+date:   2020-04-12 23:05
 categories: DEV
 tags: api mercure
 ---
 
-**At the beginning a little errata to  [part 1](https://mysiar.github.io/dev/2020/04/12/mercure-part1.html){:target="_blank"}**  
+**At the beginning a little errata to [part 1](https://mysiar.github.io/dev/2020/04/12/mercure-part1.html){:target="_blank"}**  
 We used before as JWT_KEY a certificate.  
 I found a problem to generate working JWT token.  
 If somebody make it working please let me know.
@@ -40,7 +40,7 @@ New files:
    * `sudo systemctl restart mercure.service`
 5. now you have mercure server working :wink: again but this time we shall be able to talk to it
 6. simple test to check if everything is OK [test-rocks.sh](/data/2020-04-14/test-rocks.sh){:target="_blank"} just replace ***JWT_TOKEN*** with your token, when you run it in console you will see returned UUID.  
-  If you want to see it on web browser use [](/data/2020-04-14/mercure.html){:target="_blank"} - and check results in broser and browser console.
+  If you want to see it on web browser use [](/data/2020-04-14/mercure.html){:target="_blank"} - and check results in browser and browser console.
 
 If you see at any stage ***Unauthorized*** that means there is something wrong :disappointed: and I think you should restart the fight :muscle:  
 What doesn't kill you makes you stronger. Don't give up. :fist:
