@@ -1,6 +1,6 @@
 ---
 title:  "YubiKey 5 NFC - configuration reference"
-date:   2020-04-12 23:05
+date:   2020-04-21
 categories: SECURITY
 tags: yubico yubikey
 ---
