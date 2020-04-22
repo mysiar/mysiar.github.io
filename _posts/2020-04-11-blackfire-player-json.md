@@ -22,7 +22,7 @@ Behind the scenes I use Symfony, Api-Platform (with custom defined actions), Pos
 name "Test Buildings Geo API"
 endpoint "http://localhost:8000"
 
-scenario:
+scenario
     name "geo buildings all"
     visit url('/api/geo/buildings')
         expect status_code() === 200
@@ -86,7 +86,7 @@ scenario
 name "Test Buildings Geo API"
 endpoint "http://localhost:8000"
 
-scenario:
+scenario
     name "geo buildings all"
     visit url('/api/geo/buildings')
         expect status_code() === 200
