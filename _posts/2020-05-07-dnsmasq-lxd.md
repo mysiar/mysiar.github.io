@@ -16,7 +16,7 @@ No need systemd resolver, no need extra dnsmasq service, as long you running LXD
 * not have extra dnsmasq service running at all
 * the only dnsmasq running on the system is the one LXD created
 * `/etc/resolv.conf`
-* 
+
     ```
           nameserver 10.56.207.1
     ```
