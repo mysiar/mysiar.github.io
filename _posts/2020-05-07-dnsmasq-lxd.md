@@ -6,7 +6,6 @@ tags: lxd dns
 ---
 
 ## Intro
-
 No need systemd resolver, no need extra dnsmasq service, as long you running LXD and LXD uses dnsmasq
 
 ## My host environment
