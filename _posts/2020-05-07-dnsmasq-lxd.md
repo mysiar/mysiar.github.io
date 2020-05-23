@@ -1,6 +1,6 @@
 ---
 title:  "LXD dnsmasq as the whole resolver"
-date:   2020-04-23
+date:   2020-05-07
 categories: DEVOPS
 tags: lxd dns
 ---

@@ -17,6 +17,7 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
   - jemoji
+  - jekyll-gist
 
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
