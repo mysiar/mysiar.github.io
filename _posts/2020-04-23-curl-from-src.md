@@ -2,7 +2,7 @@
 title:  "Latest CURL from source"
 date:   2020-04-23
 categories: DEVOPS
-tags: src ubuntu
+tags: src ubuntu linux
 ---
 
 Tested on Ubuntu **18.04** with [curl-7.69.1](https://github.com/curl/curl/releases/tag/curl-7_69_1)

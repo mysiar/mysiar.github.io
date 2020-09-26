@@ -18,7 +18,7 @@ gpg: OpenPGP card not available: Broken pipe
 
 ```
 reader-port Yubico Yubi
-pcsc-driver /snap/yubioath-desktop/7/usr/lib/libpcsclite.so
+pcsc-driver /snap/yubioath-desktop/current/usr/lib/libpcsclite.so
 card-timeout 5
 disable-ccid
 ```
