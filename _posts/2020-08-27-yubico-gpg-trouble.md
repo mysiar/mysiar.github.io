@@ -2,8 +2,8 @@
 title:  "Yubico key gpg trouble"
 date:   2020-08-27
 categories: DEVOPS
-tags: encryption yubico
----
+tags: encryption yubico security
+--------------------------------
 
 ## Issue
 ```
