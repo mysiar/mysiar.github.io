@@ -23,4 +23,7 @@ card-timeout 5
 disable-ccid
 ```
 
+```
+sudo systemctl restart pcscd
+```
 
