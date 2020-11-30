@@ -3,7 +3,7 @@ title:  "Linux Encrypted drive - notes 1"
 date:   2020-10-30
 categories: DEVOPS
 tags: linux security encryption
--------------------------------
+---
 
 ### Encrypting and creating volumes
 
