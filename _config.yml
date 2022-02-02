@@ -2,13 +2,13 @@ title: Mysiar's notes
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://mysiar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mysiar71
 github_username:  mysiar
 
 # Build settings
-theme: jekyll-theme-so-simple
+#theme: jekyll-theme-so-simple
 #theme: minima
 plugins:
   - jekyll-seo-tag
