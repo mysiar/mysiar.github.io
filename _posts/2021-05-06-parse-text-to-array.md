@@ -5,8 +5,6 @@ categories: DEV
 tags: php
 ---
 
-more ...
-
 ```php
 function parse2array(string $string): array
     {
