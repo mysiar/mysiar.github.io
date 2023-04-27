@@ -65,13 +65,13 @@ metadata:
   name: app2
   namespace: app2
 spec:
-  ...
+  # ... other content
   template:
-    ...
+    # ... other content
     spec:
       serviceAccountName: app2
-    ...
-  ...
+    # ... other content
+  # ... other content
 ```
 
 ## Code
