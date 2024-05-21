@@ -5,13 +5,13 @@ categories: DEVOPS
 tags: ubuntu lxd github docker
 ---
 
-* create storage pool for runners 
+* create storage pool for runners - run only onces
   ```bash
-  $ lxc storage create docker btrfs - once
+  $ lxc storage create docker btrfs
   ```
 * create lxc container for your runner, where **X** is just the next number or whatever you want to use
   ```bash
-  $ lxc launch images:ubuntu/22.04 gh-runner-X 
+  $ lxc launch ubuntu/22.04 gh-runner-X 
   ```
 * create storage volume for the runner
   ```bash
@@ -76,6 +76,10 @@ $ reboot
   $ lxc exec gh-runner-X bash
   $ systemctl status <your service name file> 
   ```  
+
+## Update for runner to be used with Go
+* edit `/root/actions-runner/runsvc.sh` and add line to the top of the file `export HOME=/root`
+
 
 ## Resources
 * [https://ubuntu.com/tutorials/how-to-run-docker-inside-lxd-containers](https://ubuntu.com/tutorials/how-to-run-docker-inside-lxd-containers)
