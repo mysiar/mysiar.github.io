@@ -22,7 +22,7 @@ tags: homelab mini-pc
 
 ## Reference
 
+* [Minisforum MS-A1 Support](https://www.minisforum.com/new/support?lang=en#/support/page/spec/134)
 * [DDR5](https://www.crucial.com/articles/about-memory/everything-about-ddr5-ram)
-
 <hr>
 <img src="/data/2024-10-27/wip.png"/>
