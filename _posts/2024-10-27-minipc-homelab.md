@@ -13,6 +13,7 @@ tags: homelab mini-pc
 | CPU   | [AMD Ryzen™ 7 8700G](https://www.amd.com/en/products/processors/desktops/ryzen/8000-series/amd-ryzen-7-8700g.html) | 271 €  |     |   |
 | RAM   | [Crucial 96GB Kit (48GBx2) DDR5-5600 SODIMM](https://www.crucial.com/memory/ddr5/CT2K48G56C46S5)                   | 244 €  |     |   |
 | SSD   | [Crucial SSD P3 4TB M.2 NVMe 2280 PCIe 3.0](https://www.crucial.com/ssd/p3/CT4000P3SSD8)                           | 235 €  |     |   |
+|       |                                                                                                                    |        |     |   |
 | Total |                                                                                                                    | 1039 € |     |   |
 
 ## Software
@@ -20,6 +21,7 @@ tags: homelab mini-pc
 * [Proxmox](https://www.proxmox.com/en/)
 
 ## Reference
+
 * [DDR5](https://www.crucial.com/articles/about-memory/everything-about-ddr5-ram)
 
 <hr>
