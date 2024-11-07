@@ -26,3 +26,8 @@ tags: homelab mini-pc
 * [DDR5](https://www.crucial.com/articles/about-memory/everything-about-ddr5-ram)
 <hr>
 <img src="/data/2024-10-27/wip.png"/>
+
+## Photos
+
+<img src="/data/2024-10-27/cpu-in.jpeg" width="800" alt="CPU"/>
+
