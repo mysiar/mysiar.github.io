@@ -58,9 +58,7 @@ fluent_bit.conf
     HTTP_Passwd     <your OpenObserve user password>
     compress        gzip
 ```
-Filter exclude statements are to skip some logs.
-
-This can be configured as required
+Filter exclude statements are to skip some logs. This can be configured as required
 
 ## Resources
 * OpenObserve install script [https://community-scripts.github.io/ProxmoxVE/scripts?id=openobserve](https://community-scripts.github.io/ProxmoxVE/scripts?id=openobserve) 
