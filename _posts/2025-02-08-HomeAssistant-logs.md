@@ -8,7 +8,7 @@ tags: logs
 ## Requirements
 * instance of HomeAssistant obviously ;)
 * instance of OpenObserve, I have mine in Proxmox container. 
-* install fluent-bit HA addon https://github.com/ablyler/ha-addon-fluent-bit
+* install fluent-bit HA addon [https://github.com/ablyler/ha-addon-fluent-bit](https://github.com/ablyler/ha-addon-fluent-bit)
 
 ## Configuration
 * I created a `parsers.conf` file to have option to add custom parsers. FIle is basically a copy from fluent-bit github repository. File location `/addon_configs/144431fc_fluent_bit/parsers.conf` 
@@ -62,5 +62,5 @@ Filter exclude statements are to skip some logs.
 This can be configured as required
 
 ## Resources
-* OpenObserve install script https://community-scripts.github.io/ProxmoxVE/scripts?id=openobserve 
-* fluentbit parser.conf  https://github.com/fluent/fluent-bit/blob/master/conf/parsers.conf
+* OpenObserve install script [https://community-scripts.github.io/ProxmoxVE/scripts?id=openobserve](https://community-scripts.github.io/ProxmoxVE/scripts?id=openobserve) 
+* fluentbit parser.conf  [https://github.com/fluent/fluent-bit/blob/master/conf/parsers.conf](https://github.com/fluent/fluent-bit/blob/master/conf/parsers.conf)
