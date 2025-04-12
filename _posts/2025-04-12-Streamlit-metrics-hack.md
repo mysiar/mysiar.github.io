@@ -2,7 +2,7 @@
 title: "Streamlit application metric endpoint hack"
 date: 2025-04-12
 categories: DEV
-tags: streamlit python 
+tags: streamlit python prometheus
 ---
 
 ## Intro
