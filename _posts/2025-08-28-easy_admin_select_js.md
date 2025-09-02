@@ -103,4 +103,4 @@ public function persistEntity(EntityManagerInterface $entityManager, $entityInst
 ```
 
 ## Notes
-* solution source : https://stackoverflow.com/questions/41428553/removing-choicetype-transformers-during-pre-submit-events
+* solution source : [https://stackoverflow.com/questions/41428553/removing-choicetype-transformers-during-pre-submit-events](https://stackoverflow.com/questions/41428553/removing-choicetype-transformers-during-pre-submit-events)
